@@ -313,5 +313,7 @@ During this project, several alternatives were explored:
 
 ## License
 
-This project is for educational purposes, built as part of the LinkedIn Learning course:
-**"Hands-On AI: Build a RAG Model from Scratch with Open Source"** by Dr. Alaa Moussawi.
+Built as an independent learning project exploring RAG architecture 
+using open-source tools. Inspired by a LinkedIn Learning course, 
+with substantial modifications and independent implementation 
+throughout.
