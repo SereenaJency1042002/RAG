@@ -1,0 +1,5 @@
+FROM deepseek-r1:8b
+
+PARAMETER temperature 0
+PARAMETER num_ctx 4096
+PARAMETER seed 42
